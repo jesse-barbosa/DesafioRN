@@ -23,21 +23,13 @@ Git
 Usando npm
 
     npm install
-
-Usando yarn
-
-    yarn install
-
+    
 # 3. Instale o Expo CLI
 
 # - Expo CLI é uma ferramenta de linha de comando necessária para executar projetos Expo. Você pode instalá-la globalmente usando npm ou yarn.
 Usando npm
 
     npm install -g expo-cli
-
-Usando yarn
-
-    yarn global add expo-cli
 
 # 4. Inicie o Expo
 
