@@ -43,7 +43,7 @@ Usando yarn
 
 # - Para iniciar o projeto com Expo, execute o seguinte comando dentro do diretório:
 
-    expo start
+    npx expo start
 
 # 5. Baixe o aplicativo Expo Go no seu celular
 
