@@ -1,50 +1,44 @@
 # DesafioRN
-Atividade que Anderson passou dia 24/06
-DesafioRN
+Essa atividade foi proposta pelo [Anderson Altair Tomkelski] (@anderson-tomkelski) no dia 24/06/2024
 
-Siga as instruções abaixo para configurar e executar o aplicativo no seu dispositivo.
-# Pré-requisitos
+# Requisitos
 
-Node.js (versão LTS recomendada) |
-npm ou yarn |
-Git
+- [Node.js](https://nodejs.org/en/download) (versão LTS recomendada)
+- [Git](https://git-scm.com/downloads)
 
-# Passos para configurar e executar o aplicativo
-# 1. Clone o repositório
+# Instalação e Execução
 
-# - Primeiro, clone o repositório do projeto para o seu computador (ou baixe o repositório pelo GitHub)
+## 1. Clone o repositório
+Primeiro, clone o repositório do projeto para o seu computador (ou baixe o repositório pelo GitHub)
 
     git clone https://github.com/jesse-barbosa/DesafioRN.git
-    cd DesafioRN
 
-# 2. Instale as dependências
+## 2. Instale as dependências
+Instale todas as dependências necessárias usando npm ou yarn.
 
-# - Instale todas as dependências necessárias usando npm ou yarn.
 Usando npm
 
+    cd DesafioRN
     npm install
     
-# 3. Instale o Expo CLI
-
-# - Expo CLI é uma ferramenta de linha de comando necessária para executar projetos Expo. Você pode instalá-la globalmente usando npm ou yarn.
-Usando npm
-
-    npm install -g expo-cli
-
-# 4. Inicie o Expo
-
-# - Para iniciar o projeto com Expo, execute o seguinte comando dentro do diretório:
+## 3. Inicie o Expo
+Para iniciar o projeto com Expo, execute o seguinte comando dentro do diretório:
 
     npx expo start
 
-# 5. Baixe o aplicativo Expo Go no seu celular
+## 4. Baixe o aplicativo Expo Go no seu celular
+Para visualizar o aplicativo no dispositivo, você precisará do aplicativo Expo Go.  
 
-- Para visualizar seu aplicativo no seu dispositivo, você precisará do aplicativo Expo Go.
+- [Baixe o Expo Go para Android](https://play.google.com/store/apps/details?id=host.exp.exponent)  
+- [Baixe o Expo Go para iOS](https://apps.apple.com/app/expo-go/id982107779)  
 
-Baixe o Expo Go para Android ou para iOS.
+# 5. Execute o aplicativo no seu dispositivo
 
-# 6. Execute o aplicativo no seu dispositivo
+Após iniciar o Expo, um QR Code será gerado no terminal ou na janela do navegador que abrirá automaticamente.  
 
-Após iniciar o Expo, um QR Code será gerado no seu terminal ou na janela do navegador que abrirá automaticamente. Abra o aplicativo Expo Go no seu dispositivo e escaneie o QR Code para carregar o aplicativo.
+5.1 Abra o aplicativo Expo Go no seu dispositivo.
+5.2 Escaneie o QR Code exibido para carregar o aplicativo.
 
-Agora o aplicativo React Native deve rodar no seu dispositivo. Se você encontrar algum problema ou tiver alguma dúvida, por favor, verifique a documentação do Expo ou entre em contato comigo por E-mail.
+Agora o aplicativo React Native deve rodar no seu dispositivo
+
+Se encontrar algum problema ou tiver dúvidas, consulte a [documentação oficial do Expo](https://docs.expo.dev/).
