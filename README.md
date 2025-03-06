@@ -1,5 +1,5 @@
 # DesafioRN
-Essa atividade foi proposta pelo [Anderson Altair Tomkelski] (@anderson-tomkelski) no dia 24/06/2024
+Essa atividade foi proposta pelo [Anderson Altair Tomkelski](@anderson-tomkelski) no dia 24/06/2024
 
 # Requisitos
 
